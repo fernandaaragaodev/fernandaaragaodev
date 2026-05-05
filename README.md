@@ -10,7 +10,7 @@ Sou desenvolvedora back-end com enorme paixão por análise de sistemas, desenvo
 ###
 * 💻 Graduanda em Análise e Desenvolvimento de Sistemas
 * 🕹 Técnica em Programação de Jogos Digitais
-* 🌐 Entusiasta em cibersegurança; estudando sobre redes, sistemas operacionais e análise de vulnerabilidades
+* 🌐 Entusiasta em Cibersegurança, Redes e Infraestrutura
 
 ###
 
